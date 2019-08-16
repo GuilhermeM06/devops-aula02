@@ -1,1 +1,3 @@
-# devops-aula02
+Jack Black
+Edward Norton
+Ryan Gosling
