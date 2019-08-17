@@ -1,4 +1,6 @@
-Jack Black
-Edward Norton
+
+Jack Black  
+Lazaro Ramos
 Ryan Gosling
 Bob
+
